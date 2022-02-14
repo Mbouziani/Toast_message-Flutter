@@ -1,4 +1,4 @@
-# create toast messages on a Flutter Event. [fluttertoast: ^8.0.8](https://pub.dev/packages/fluttertoast)
+# Create Toast messages on a Flutter Event. [fluttertoast: ^8.0.8](https://pub.dev/packages/fluttertoast)
 
 Toast Library for Flutter, Easily create Personalised toast messages in single line of code
 
