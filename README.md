@@ -1,4 +1,4 @@
-# Draw SVG files on a Flutter Widget. [fluttertoast: ^8.0.8](https://pub.dev/packages/fluttertoast)
+# create toast messages on a Flutter Event. [fluttertoast: ^8.0.8](https://pub.dev/packages/fluttertoast)
 
 Toast Library for Flutter, Easily create Personalised toast messages in single line of code
 
